@@ -1,0 +1,39 @@
+body {
+  padding: 20px 10px;
+  font-family: Calibri;
+  max-width: 2000px;
+  margin: 0 auto;
+  font-size: 1em;
+  background-color: lightgrey;
+}
+h1 {
+  background-color: blue;
+  color: white;
+  font-size: 1.3em;
+}
+h2 {
+  color: black;
+  font-size: 0.9em
+}
+p {
+  margin: 2px 0;
+  font-size: 0.8em;
+}
+h3 {
+  color: black;
+  font-size: 0.8em;
+}
+.Zero {
+  background-color: grey;
+  border-radius: 20px;
+  color: white;
+  padding: 10px;
+  margin: 10px auto;
+}
+.One {
+  background-color: white;
+  border-radius: 5px;
+  color: grey;
+  padding: 5px;
+  margin: 10px auto;
+}
